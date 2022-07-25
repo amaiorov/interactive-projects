@@ -23,6 +23,14 @@ The goal was for the site get better and better, and ultimately become “the pe
 * creating “best content” algorithm
 * creating moderation interface to prevent “bad” content from showing up
 
+### Media
+![ANDYs 1](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/andys/andys-1.jpeg)
+![ANDYs 2](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/andys/andys-2.jpeg)
+![ANDYs 3](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/andys/andys-3.jpeg)
+![ANDYs 4](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/andys/andys-4.jpeg)
+![ANDYs 5](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/andys/andys-5.jpeg)
+
+
 ## Bauer Slapshot Simulator
 
 ### Problem Statement
