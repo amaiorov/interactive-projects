@@ -98,5 +98,5 @@ As a result, when Nike, for instance, released a new Jordan sneaker and the cons
 ![Interactive Wall 4](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/wk-interactive-wall/wk-interactive-wall-4.jpeg)
 ![Interactive Wall 5](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/wk-interactive-wall/wk-interactive-wall-5.gif)
 ![Interactive Wall 6](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/wk-interactive-wall/wk-interactive-wall-6.gif)
-![Interactive Wall 7](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/wk-interactive-wall/wk-interactive-wall-7j.peg)
+![Interactive Wall 7](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/wk-interactive-wall/wk-interactive-wall-7.jpeg)
 
