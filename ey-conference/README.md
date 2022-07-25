@@ -21,9 +21,9 @@ Additional content was delivered via attendees posting on Twitter with a specifi
 * setup and maintain the installation for the duration of the conference
 
 ## Media
-![EY Conference 1](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/ey-conference/images/ey-conference-1.jpeg)
-![EY Conference 2](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/ey-conference/images/ey-conference-2.jpeg)
-![EY Conference 3](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/ey-conference/images/ey-conference-3.jpeg)
-![EY Conference 4](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/ey-conference/images/ey-conference-4.jpeg)
-![EY Conference 5](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/ey-conference/images/ey-conference-5.jpeg)
-![EY Conference 6](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/ey-conference/images/ey-conference-6.jpeg)
+![EY Conference 1](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/ey-conference/images/ey-conference-1.jpg)
+![EY Conference 2](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/ey-conference/images/ey-conference-2.jpg)
+![EY Conference 3](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/ey-conference/images/ey-conference-3.jpg)
+![EY Conference 4](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/ey-conference/images/ey-conference-4.jpg)
+![EY Conference 5](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/ey-conference/images/ey-conference-5.jpg)
+![EY Conference 6](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/ey-conference/images/ey-conference-6.jpg)
