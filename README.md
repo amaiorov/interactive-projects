@@ -82,3 +82,13 @@ As a result, when Nike, for instance, released a new Jordan sneaker and the cons
 * surveying the office space for potential locations
 * working on prototype application
 * creating NLP engine to analyze consumer sentiment from social media
+
+### Media
+![Interactive Wall 1](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/wk-interactive-wall/wk-interactive-wall-1.jpeg)
+![Interactive Wall 2](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/wk-interactive-wall/wk-interactive-wall-2.jpeg)
+![Interactive Wall 3](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/wk-interactive-wall/wk-interactive-wall-3.jpeg)
+![Interactive Wall 4](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/wk-interactive-wall/wk-interactive-wall-4.jpeg)
+![Interactive Wall 5](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/wk-interactive-wall/wk-interactive-wall-5.gif)
+![Interactive Wall 6](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/wk-interactive-wall/wk-interactive-wall-6.gif)
+![Interactive Wall 7](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/images/wk-interactive-wall/wk-interactive-wall-7j.peg)
+
