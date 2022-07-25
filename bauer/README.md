@@ -13,3 +13,4 @@ The team created a prototype hockey stick with an embedded device that used the 
 * build interface for users to see data of their slapshots
 
 ## Media
+![Bauer 1](https://raw.githubusercontent.com/amaiorov/interactive-projects/main/bauer/images/bauer-1.jpg)
